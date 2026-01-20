@@ -1,0 +1,5 @@
+{
+  "name": "Centralized Blacklist (CB) Platform",
+  "description": "A secure administrative portal for manual fraud verification and API key management across corporate group entities.",
+  "requestFramePermissions": []
+}
